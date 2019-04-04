@@ -13,6 +13,7 @@
 ![public2](./public/2.png)
 ![public3](./public/3.png)
 ![public4](./public/4.png)
+![public5](./public/5.png)
 
 
 ### 构建应用
